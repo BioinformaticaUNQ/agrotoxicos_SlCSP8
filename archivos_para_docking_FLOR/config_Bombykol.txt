@@ -1,0 +1,15 @@
+receptor = 1JUQ_receptor.pdbqt
+ligand = Bombykol.pdbqt
+
+center_x = 35
+center_y = 17
+center_z = 18
+
+size_x = 15
+size_y = 18
+size_z = 20
+
+exhaustiveness = 8
+num_modes = 9
+
+out = Bombykol_out.pdbqt
